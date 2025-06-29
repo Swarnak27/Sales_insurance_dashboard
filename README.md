@@ -3,9 +3,7 @@
 
 An interactive Power BI dashboard designed to analyze and visualize key metrics in the insurance sales industry. This project focuses on comparing current and past year sales, withdrawals, and net sales by region and advisor.
 
-![Sales Insurance Dashboard]("\Sales Insurance dashboard.png")
-
-## Project Description
+## Description
 
 The Sales Insurance Dashboard provides insightful visualizations to track sales performance, withdrawal trends, and advisor-wise contributions across multiple regions. It enables data-driven decision-making by presenting KPIs and comparative analytics in a clear and interactive format.
 
@@ -32,6 +30,11 @@ The Sales Insurance Dashboard provides insightful visualizations to track sales 
 - Past Year Withdrawals  
 - Net Sales (Current & Past)  
 - Sales by Region and Advisor
+  
+## Project Preview
+![Sales Insurance dashboard](https://github.com/user-attachments/assets/3dd6c147-dd9b-4201-91c9-18ed263215eb)
+
+  
 
 
 
